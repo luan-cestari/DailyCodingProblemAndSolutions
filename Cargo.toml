@@ -11,3 +11,8 @@ edition = "2018"
 [[bin]]
 name="1076"
 path = "1076-Squarespace-Misc-easy.rs"
+
+
+[[bin]]
+name="1077"
+path = "1077-Amazon-Misc-Tree.rs"
