@@ -19,3 +19,7 @@ path = "1077-Amazon-Misc-Tree.rs"
 [[bin]]
 name="1079"
 path = "1079-Facebook-Misc-Counter.rs"
+
+[[bin]]
+name="1075"
+path = "1075-Apple-Misc-Fib.rs"
