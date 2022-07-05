@@ -1,6 +1,6 @@
 fn add_subtract(vec: Vec<i32>) -> Result<i32, &'static str> {
     if vec.len() == 0 {
-        return Err("invalid header length");
+        return Err("invalid length");
     }
 
     let mut sum = 0;

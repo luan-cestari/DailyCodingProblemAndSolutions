@@ -12,7 +12,10 @@ edition = "2018"
 name="1076"
 path = "1076-Squarespace-Misc-easy.rs"
 
-
 [[bin]]
 name="1077"
 path = "1077-Amazon-Misc-Tree.rs"
+
+[[bin]]
+name="1079"
+path = "1079-Facebook-Misc-Counter.rs"
