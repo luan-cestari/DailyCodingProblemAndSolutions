@@ -7,6 +7,14 @@ edition = "2018"
 [dependencies]
 
 [[bin]]
+name="1072"
+path = "1072-Facebook-Misc-Tree.rs"
+
+[[bin]]
+name="1075"
+path = "1075-Apple-Misc-Fib.rs"
+
+[[bin]]
 name="1076"
 path = "1076-Squarespace-Misc-easy.rs"
 
@@ -15,13 +23,13 @@ name="1077"
 path = "1077-Amazon-Misc-Tree.rs"
 
 [[bin]]
+name="1078"
+path = "1078-Google-Misc-TreePath.rs"
+
+[[bin]]
 name="1079"
 path = "1079-Facebook-Misc-Counter.rs"
 
 [[bin]]
-name="1075"
-path = "1075-Apple-Misc-Fib.rs"
-
-[[bin]]
-name="1072"
-path = "1072-Facebook-Misc-Tree.rs"
+name="1081"
+path = "1081-NoComp-Graph-Simple.rs"
